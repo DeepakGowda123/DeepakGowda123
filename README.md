@@ -14,6 +14,8 @@
 ---
 
 ## **🌱 About Me**
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 - 🔭 I’m currently working on **GROVO - Agricultural Resource Management App**
 - 🌱 I’m currently learning **Flutter, Firebase, Cloud Computing (AWS/Azure), and Advanced SQL**
 - 👯 I’m looking to collaborate on **Open-source software & machine learning projects**
