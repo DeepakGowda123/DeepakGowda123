@@ -46,12 +46,15 @@
 
 ---
 
-## **📊 GitHub Stats**
+## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakGowda123&theme=radical&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
+## 📆 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakGowda123&theme=radical)
 
 ---
 
