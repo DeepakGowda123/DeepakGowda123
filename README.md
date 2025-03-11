@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Developer;Aspiring+SDE;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepakGowda123&label=Profile%20views&color=0e75b6&style=flat" alt="DeepakGowda123" /> </p>
 
