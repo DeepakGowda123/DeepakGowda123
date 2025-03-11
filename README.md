@@ -34,7 +34,9 @@
 
 ---
 
-# **🛠 My Tech Stack**
+## **🛠 My Tech Stack**
+<div align="center">
+
 | **Category**          | **Technologies**                                                                                                                                                       |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**         | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) |
@@ -44,14 +46,17 @@
 | **DevOps & Cloud**    | ![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) |
 | **Other Tools**       | ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakGowda123&theme=radical&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakGowda123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakGowda123&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
 
 ---
 
