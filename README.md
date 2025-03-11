@@ -54,7 +54,7 @@
 </div>
 
 ## 📆 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakGowda123&theme=radical)
+[![Deepak's GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=DeepakGowda123&theme=radical)](https://github.com/DeepakGowda123)
 
 ---
 
