@@ -53,9 +53,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-## 📆 GitHub Contribution Graph
-[![Deepak's GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=DeepakGowda123&theme=radical)](https://github.com/DeepakGowda123)
-
 ---
 
 ### **🚀 Thanks for visiting my GitHub profile!**
