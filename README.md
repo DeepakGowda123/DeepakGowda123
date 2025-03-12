@@ -56,6 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DeepakGowda123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakGowda123&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGowda123&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 </div>
 
 
